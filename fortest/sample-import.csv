@@ -1,4 +1,0 @@
-id,title,description,date,color,amount,category,isExpense,shareGroupSize,splitMethod
-3C7E2B5F-6D15-4B5F-9D31-3B4E0E4F5D10,去西門町吃飯,與朋友聚餐,2025-11-30T14:00:00.000Z,blue,2000,餐飲,1,1,personal
-B9F1C1E0-2B6E-43B8-A2A1-4F3D5E7B8C9A,早餐會議,,2025-12-01T09:30:00.000Z,green,,其他,0,1,personal
-F0D2A3B4-5C6D-7890-ABCD-EF1234567890,出遊訂金,花蓮兩天一夜訂金,2025-12-10T08:00:00.000Z,orange,4500,旅遊,1,2,aa
